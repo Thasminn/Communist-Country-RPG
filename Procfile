@@ -1,1 +1,1 @@
-worker: python CommunistCountryRPG.py
+worker: python communistcountryrpg.py
